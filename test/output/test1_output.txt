@@ -1,0 +1,12 @@
+if              keyword
+(               lparen
+x               identifier
+=               assign
+=               assign
+10              number
+)               rparen
+{               lbrace
+return          keyword
+x               identifier
+;               semicolon
+}               rbrace
